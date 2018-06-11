@@ -6,18 +6,26 @@
 
   <Button
     android:id="@+id/bone_anim_like"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:onClick="show"
+    style="@style/Button.Base.Main"
     android:tag="bone_anim_like"
     android:text="@string/bone_anim_like"/>
 
   <Button
     android:id="@+id/bone_anim_laugh"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:onClick="show"
+    style="@style/Button.Base.Main"
     android:tag="bone_anim_laugh"
     android:text="@string/bone_anim_laugh"/>
+
+  <Button
+    android:id="@+id/bone_anim_peach"
+    style="@style/Button.Base.Main"
+    android:tag="bone_anim_peach"
+    android:text="@string/bone_anim_peach"/>
+
+  <Button
+    android:id="@+id/bone_anim_kiss"
+    style="@style/Button.Base.Main"
+    android:tag="bone_anim_kiss"
+    android:text="@string/bone_anim_kiss"/>
 
 </LinearLayout>

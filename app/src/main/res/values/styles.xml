@@ -10,4 +10,13 @@
     <item name="android:textSize">20sp</item>
   </style>
 
+  <style name="Button.Base" parent="AppTheme">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+  </style>
+
+  <style name="Button.Base.Main" parent="Button.Base">
+    <item name="android:onClick">show</item>
+  </style>
+
 </resources>

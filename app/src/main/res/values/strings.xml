@@ -2,4 +2,6 @@
   <string name="app_name">anim_engine_learn</string>
   <string name="bone_anim_like">home button like anim</string>
   <string name="bone_anim_laugh">ice break laugh anim</string>
+  <string name="bone_anim_peach">ice break peach anim</string>
+  <string name="bone_anim_kiss">ice break kiss anim</string>
 </resources>

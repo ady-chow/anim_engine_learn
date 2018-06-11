@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">anim_engine_learn</string>
+  <string name="bone_anim_like">home button like anim</string>
+  <string name="bone_anim_laugh">ice break laugh anim</string>
+</resources>

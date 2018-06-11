@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+===================================================================
+
+Sprite sheet file created for UIKit using TexturePacker
+https://www.codeandweb.com/texturepacker
+
+===================================================================
+$TexturePacker:SmartUpdate:8bbff309a5fd5d2da427de8b40355a3c:f9d248acaf2e452a4631725bd6370c1b:85781bf921ee4ca622d7e60d171a6cd4$
+-->
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+
+                        <key>eyeL</key>
+			<dict>
+				<key>x</key><real>125</real>
+				<key>y</key><real>183</real>
+				<key>w</key><real>42</real>
+				<key>h</key><real>26</real>
+				
+				
+			</dict>
+                        <key>eyeR</key>
+			<dict>
+				<key>x</key><real>125</real>
+				<key>y</key><real>211</real>
+				<key>w</key><real>42</real>
+				<key>h</key><real>26</real>
+				
+				
+			</dict>
+                        <key>face</key>
+			<dict>
+				<key>x</key><real>1</real>
+				<key>y</key><real>1</real>
+				<key>w</key><real>180</real>
+				<key>h</key><real>180</real>
+				
+				
+			</dict>
+                        <key>mouth</key>
+			<dict>
+				<key>x</key><real>1</real>
+				<key>y</key><real>183</real>
+				<key>w</key><real>122</real>
+				<key>h</key><real>69</real>
+				
+				
+			</dict>
+		</dict>
+		<key>meta</key>
+		<dict>
+			<key>image</key>
+			<string>pic</string>
+			<key>width</key>
+			<integer>182</integer>
+			<key>height</key>
+			<integer>253</integer>
+		</dict>
+	</dict>
+</plist>
